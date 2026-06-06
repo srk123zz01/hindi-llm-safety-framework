@@ -1,0 +1,18 @@
+transformers==4.47.0
+  datasets
+  sentence-transformers
+  umap-learn
+  gradio
+  accelerate
+  bitsandbytes
+  scikit-learn
+  seaborn
+  matplotlib
+  tqdm
+  wordninja
+  faiss-gpu
+  torch
+  numpy
+  pandas
+  scipy
+  langdetect
